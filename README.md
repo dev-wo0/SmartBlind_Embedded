@@ -1,9 +1,9 @@
 # SmartBlind_Embedded
 
-
+Home IOT 스마트 블라인드
 
 Enviroment
-  - Intel Edison (Arduino)
+  - Arduino Intel Edison (C++)
   - Yocto Linux
   - Node.js
   
@@ -16,9 +16,11 @@ Enviroment
   - 날씨가 흐릴때 블라인드 내림
   
   
+  
 *수동모드
 
 사용자의 Control에 맞춰 블라인드 이용
+
 
 
 *알람
